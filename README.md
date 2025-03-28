@@ -15,8 +15,9 @@
 8. [Future Roadmap & Scalability](#future-roadmap-scalability)
 9. [Assumptions & Design Decisions](#assumptions-design-decisions)
 10. **[Project Repositories GEN-AI & UI/UX](#project-repositories-ui-ux)**
-11. [Conclusion](#conclusion)
-12. [White Paper](#white-paper)
+11. [White Paper](#white-paper)
+12. [Conclusion](#conclusion)
+
 
 ---
 
@@ -113,15 +114,17 @@ This platform is a part of a larger competition-driven project focused on HR inn
 
 ---
 
+## **White Paper**
+
+[White Paper](https://my.visme.co/view/dm4vrkog-ahdus-hr-innovation-platform-whitepaper)
+
+
 ## **Conclusion**
 
 The **Ähdus Innovation HR Platform** redefines recruitment with **AI-driven automation, efficiency, and compliance**. Organizations looking for a **competitive hiring advantage** should adopt this innovative solution.
 
 💡 **Transform your hiring process today with the power of AI!** 🚀
 
-## **White Paper**
-
-[White Paper](https://my.visme.co/view/dm4vrkog-ahdus-hr-innovation-platform-whitepaper)
 
 ## **Author**
 Developed by **HireSync.ai** 🚀
