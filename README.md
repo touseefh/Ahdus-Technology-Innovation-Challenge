@@ -121,7 +121,7 @@ The **Ähdus Innovation HR Platform** redefines recruitment with **AI-driven aut
 
 ## **White Paper**
 
-[Link](https://my.visme.co/view/dm4vrkog-ahdus-hr-innovation-platform-whitepaper)
+[White Paper](https://my.visme.co/view/dm4vrkog-ahdus-hr-innovation-platform-whitepaper)
 
 ## **Author**
 Developed by **HireSync.ai** 🚀
